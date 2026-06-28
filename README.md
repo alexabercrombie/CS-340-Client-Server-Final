@@ -1,2 +1,13 @@
 # CS-340-Client-Server-Final
 Final working project for CS-340 Client Server Development.
+
+
+The way that I write code that is maintainable, readable, and adaptable is that I start by making sure that I use good habits when writing code so that it is starting from a clean readable place. I will also take regular breaks and reevaluate the code that I have written. It is often helpful for me to step away from the project and look at it with fresh eyes. When I return, I can see things I may have missed and how the visual looks. This is where I can see if the code is as readable as I thought it was when I first wrote it. As an example of this When I was writing the code for project 1, I was given directions to create a program that simply ran these commands. This was okay, but not practical, and I did not feel like it was the best way to approach this project. I decided to create a while loop and use a menu that allowed the user to see the functionality that I had implemented. If I were to add another layer to highlight the functionality, I would have added more verification print statements to print automatically as the user used each command. 
+
+ 
+
+When looking at a problem through computer science, I try to focus solely on the problem and not look at other factors or distractions. It can be easy to overcomplicate things or to see the other options or features that could be useful, but it is important to focus on what is most important. For this project, I was asked to build an interactive dashboard that worked with a MongoDB database. As I started working on the project, I only focused on getting the dashboard up and running then the functionality. Once it met the base requirements then I began to look at what I wanted to change to make the UI more user friendly, and I added additional information to the callbacks. 
+
+ 
+
+For me, computer scientists need to bridge human elements and digital implementation. There will always be a human element as we all use technology and as a computer scientist it is my goal to design software around human interaction. When looking at the project and what the desired end results were, there could be several ways that may be beneficial. When looking to design and implement a system or an application like this it is best to have a clear understanding of how it will be used, why it is important, and what the process looks like without the app. There could be several solutions that benefit this project like adding scores and ranking each animal based on the requirements. You could automate some of these tasks, or you could even add notifications or updates. The result should always come from what users need.  
